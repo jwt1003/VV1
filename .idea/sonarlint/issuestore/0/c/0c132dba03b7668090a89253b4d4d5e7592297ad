@@ -1,0 +1,8 @@
+
+d
+java:S1104"NMake n1 a static final constant or non-public and provide accessors if needed.(†ÄÎš
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‚İáıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ïÆ‚½üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(œÉôô
+N	java:S106"9Replace this use of System.out or System.err by a logger.(š¿³•
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÂÂ¡úıÿÿÿÿ

@@ -1,0 +1,15 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ö„œÆ
+g	java:S101$"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(êÃºÒÿÿÿÿÿ
+k
+java:S1149&"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¢àóÄ
+k
+java:S1149&"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒýÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(Â‰žë8¼Í…ˆ¸1
+h
+java:S3776%"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ñù£–
+L
+java:S1854'"7Remove this useless assignment to local variable "len".(ãÖ¹/
+=
+java:S1481'"(Remove this unused "len" local variable.(ãÖ¹/
